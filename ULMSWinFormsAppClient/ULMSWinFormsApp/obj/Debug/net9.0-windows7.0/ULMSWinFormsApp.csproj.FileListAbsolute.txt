@@ -1,0 +1,66 @@
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\bin\Debug\net9.0-windows7.0\ULMSWinFormsApp.exe
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\bin\Debug\net9.0-windows7.0\ULMSWinFormsApp.deps.json
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\bin\Debug\net9.0-windows7.0\ULMSWinFormsApp.runtimeconfig.json
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\bin\Debug\net9.0-windows7.0\ULMSWinFormsApp.dll
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\bin\Debug\net9.0-windows7.0\ULMSWinFormsApp.pdb
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.Forms.FrmCourseEnrollment.resources
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.Forms.FrmDashboard.resources
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.FrmLogin.resources
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.Forms.FrmMarksCapture.resources
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.Forms.FrmReports.resources
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.Forms.FrmStudentRegistration.resources
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.csproj.GenerateResource.cache
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.AssemblyInfoInputs.cache
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.AssemblyInfo.cs
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.sourcelink.json
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.dll
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\refint\ULMSWinFormsApp.dll
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.pdb
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.genruntimeconfig.cache
+C:\Users\dzand\Source\Repos\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ref\ULMSWinFormsApp.dll
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\bin\Debug\net9.0-windows7.0\ULMSWinFormsApp.exe
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\bin\Debug\net9.0-windows7.0\ULMSWinFormsApp.deps.json
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\bin\Debug\net9.0-windows7.0\ULMSWinFormsApp.runtimeconfig.json
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\bin\Debug\net9.0-windows7.0\ULMSWinFormsApp.dll
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\bin\Debug\net9.0-windows7.0\ULMSWinFormsApp.pdb
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.Forms.FrmCourseEnrollment.resources
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.Forms.FrmDashboard.resources
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.FrmLogin.resources
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.Forms.FrmMarksCapture.resources
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.Forms.FrmReports.resources
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.Forms.FrmStudentRegistration.resources
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.csproj.GenerateResource.cache
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.AssemblyInfoInputs.cache
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.AssemblyInfo.cs
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.sourcelink.json
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.dll
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\refint\ULMSWinFormsApp.dll
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.pdb
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.genruntimeconfig.cache
+C:\Users\dzand\Desktop\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ref\ULMSWinFormsApp.dll
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\bin\Debug\net9.0-windows7.0\ULMSWinFormsApp.exe
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\bin\Debug\net9.0-windows7.0\ULMSWinFormsApp.deps.json
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\bin\Debug\net9.0-windows7.0\ULMSWinFormsApp.runtimeconfig.json
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\bin\Debug\net9.0-windows7.0\ULMSWinFormsApp.dll
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\bin\Debug\net9.0-windows7.0\ULMSWinFormsApp.pdb
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.Forms.FrmCourseEnrollment.resources
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.Forms.FrmDashboard.resources
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.FrmLogin.resources
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.Forms.FrmMarksCapture.resources
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.Forms.FrmReports.resources
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.Forms.FrmStudentRegistration.resources
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.csproj.GenerateResource.cache
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.AssemblyInfoInputs.cache
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.AssemblyInfo.cs
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.sourcelink.json
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.dll
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\refint\ULMSWinFormsApp.dll
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.pdb
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ULMSWinFormsApp.genruntimeconfig.cache
+C:\Users\dzand\OneDrive\Desktop\SDT FA2\SDT FA 2\ULMSWinFormsAppClient\ULMSWinFormsApp\obj\Debug\net9.0-windows7.0\ref\ULMSWinFormsApp.dll
